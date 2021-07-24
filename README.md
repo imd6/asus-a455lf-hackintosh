@@ -2,6 +2,11 @@
 
 My EFI config for Hackintosh on ASUS A455LF with OpenCore
 
+
+![tuljaenak](https://user-images.githubusercontent.com/66425312/126872723-ea754ca1-0881-4635-ac9e-f5aae245b01f.png)
+
+Update : Since i dont use Hackintosh for my daily machine, probably this repo isnt gonna update for long time, maybe, we'll see.
+
 --------------------------------------------------------------------------------------------
 
 ### What's Working ?
